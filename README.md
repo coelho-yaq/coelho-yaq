@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7600BC&height=200&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7600BC&height=200&section=header" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7600BC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Amália+Coelho;:%29)](https://git.io/typing-svg)
 
@@ -37,9 +37,10 @@
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br>
+<p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{coelho-yaq}/count.svg" /></p> 
 <br>
 </div>
 	
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7600BC&height=200&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7600BC&height=200&section=footer" />
